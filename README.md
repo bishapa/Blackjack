@@ -1,2 +1,2 @@
 # Blackjack
-Object-oriented project created for University.
+Object-oriented project in Java.
